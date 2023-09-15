@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule ^(.+)\.php$ /$1 [R,L]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ /$1.php [NC,END]
+<Files "error_log">
+Require all denied
+</Files>
