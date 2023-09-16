@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+}
+
+body {
+  /* The image used */
+  background-image: url("https://cdn.discordapp.com/attachments/766570542371176459/882074373048131594/sticker.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,11 @@
+{
+	"mongodbURL": "",
+	"gateway_id" : "",
+	"gateway_secret" : "",
+	"myceliumCallbackUrl" : "",
+	"toolsApiUrl" : "",
+	"botnetKey" : "",
+	"proxyWebsite" : "http://localhost:8080/public/",
+	"censys_apiid" : "",
+	"censys_secret" : ""
+}

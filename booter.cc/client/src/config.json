@@ -1,0 +1,4 @@
+{
+	"api_url" : "api.booter.cc/v1/stress",
+	"backend" : "https://api.booter.cc/"
+}

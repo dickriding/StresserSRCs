@@ -1,0 +1,40 @@
+{
+	"proxy" : [
+		{
+			"name" : "GLOBAL",
+			"code" : 0,
+			"file" : "default.txt",
+			"file_http" : "default_http.txt"
+		},
+		{
+			"name" : "ASIA",
+			"code" : 1,
+			"file" : "as.txt",
+			"file_http" : "as.txt"
+		},
+		{
+			"name" : "EUROPE",
+			"code" : 2,
+			"file" : "eu.txt",
+			"file_http" : "eu_http.txt"
+		},
+		{
+			"name" : "NORTH AMERICA",
+			"code" : 3,
+			"file" : "na.txt",
+			"file_http" : "na_http.txt"
+		},
+		{
+			"name" : "SOUTH KOREA",
+			"code" : 4,
+			"file" : "sa.txt",
+			"file_http" : "sa_http.txt"
+		},
+		{
+			"name" : "CHINA",
+			"code" : 5,
+			"file" : "cn.txt",
+			"file_http" : "cn_http.txt"
+		}
+	]
+}
